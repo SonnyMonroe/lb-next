@@ -14,7 +14,7 @@
 </div>
   <div align="center">
   <a href="https://github.com/Lightning-Bounties">
-    <img src="public/lb_Logo_github2.png" alt="Logo" width="700" height="225"> 
+    <img src="public/lb_Logo_github2.png" alt="Logo" width="700" height="223"> 
   </a>
   </div>
 
