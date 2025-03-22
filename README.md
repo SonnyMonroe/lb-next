@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=54&letterSpacing=small&duration=1999&pause=1000&color=A96CFF&center=true&vCenter=true&repeat=true&width=1000&height=75&lines=Welcome+to+Lightning+Bounties!" alt="Typing SVG" /></a>
-    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; border: 2px solid #4285f4; padding: 20px; border-radius: 10px;">
+    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; border: 2px solid #4285f4; padding: 20px; border-radius: 10px;">  
 
   <a href="https://https://x.com/LBounties" target="_blank">
     <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" height="35" alt="X Badge">
